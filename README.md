@@ -1,1 +1,2 @@
 # odin-recipes
+'this is a reflection of my skills so far. i have made this file on git and downloaded it from my command line. i will now construct a basic site with links to show basic understanding for project odin.
